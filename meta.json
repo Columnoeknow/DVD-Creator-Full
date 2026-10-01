@@ -1,0 +1,24 @@
+{
+  "repo": "dvd-creator-full",
+  "product": "DVD Creator Full",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "download-manager",
+  "topics": [
+    "dvd-creator-full",
+    "dvd-desktop",
+    "dvd-windows",
+    "download-manager",
+    "file-downloader",
+    "resume-downloads",
+    "batch-download",
+    "desktop-downloader",
+    "windows-download-tools",
+    "media-downloader",
+    "speed-accelerator"
+  ],
+  "site": "zentool.art"
+}
